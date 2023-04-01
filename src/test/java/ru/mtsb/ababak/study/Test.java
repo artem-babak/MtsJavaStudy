@@ -10,6 +10,12 @@ public class Test {
 		//System.out.println(SumTextNumber.execute("khjsd784,3hd87.2s d-8fsdf8"));
 	}
 
+	/**
+	 * Тестирование выражение
+	 *
+	 * @param name       - имя тест кейса
+	 * @param expression - тестируемое выражение
+	 */
 	public static void test(String name, boolean expression) {
 		if (expression)
 			System.out.println("OK - " + name);
