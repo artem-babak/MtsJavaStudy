@@ -13,7 +13,7 @@ public class SumTextNumber {
 	/**
 	 * Извлекает числа из текста. Суммирует извлеченные числа.
 	 *
-	 * @param str - исходная строка
+	 * @param str исходная строка
 	 * @return возвращает сумму извлеченных чисел
 	 */
 	public static double execute(String str) {
