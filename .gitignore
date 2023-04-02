@@ -23,7 +23,12 @@
 hs_err_pid*
 
 # Idea
-.idea
+out/
+.idea/
+.idea_modules/
+*.iml
+*.ipr
+*.iws
 
 # Docker
 Dockerfile
